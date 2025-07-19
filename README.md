@@ -3,11 +3,12 @@
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🌱 Currently learning **ReactJS, Java, and AI-ML with Edunet & IBM**
-- 💼 AI Intern @ **AICTE Edunet Foundation**
-- 💻 Web Projects: [3D Portfolio](https://github.com/Sameerkhansabri/My_3D_Portfolio_Project), [Calculator](https://github.com/Sameerkhansabri/Web_Calculator_Project)
-- 🎓 BCA Student @ **COER University, Roorkee (CS Dept.)**
-- 🛠️ Skills: `HTML` `CSS` `JavaScript` `React` `Three.js` `Python` `Java`
+- 🌱 Currently learning **ReactJS, Java, and AI-ML with Edunet & IBM 
+- 💼 Microsoft AI Intern @AICTE @EdunetFoundation
+- 💻 Web Projects: [Personal Portfolio Website] (https://github.com/Sameerkhansabri/My_Portfolio_Website)
+- [3D Portfolio] (https://github.com/Sameerkhansabri/My_3D_Portfolio_Project)  
+- 🎓 BCA (CS) Student @COER University Roorkee Uttarakhand
+- 🛠️ Skills: `HTML` `CSS` `JavaScript` `React` 'TailwindCSS' `Three.js` `Python` `Java`
 - 📫 Reach me at: **sameerkhansabri.in@gmail.com**
 
 ---
@@ -26,5 +27,7 @@
 <p align="left">
   <a href="https://linkedin.com/in/sameerkhansabri" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://twitter.com/SameerKhansabri" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/profile/sameerkhansabri" target="_blank"><img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+  <a href="https://www.instagram.com/sameer_khan_sabri" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 </p>
