@@ -3,9 +3,11 @@
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🌱 Currently Learning ReactJS, Java, And AI_ML With Edunet & IBM
+- 🌱 Currently Learning Java, ReactJS, TailwindCSS And AI_ML
   
-- 💼 Microsoft AI Intern @AICTE @EdunetFoundation
+- 💼 1. Microsoft AI Intern @AICTE @EdunetFoundation
+
+- 💼 2. IBM AI_ML Intern @AICTE @EdunetFoundation
   
 - 💻 Web Projects:[Personal Portfolio Website](https://github.com/Sameerkhansabri/My_Portfolio_Website)     [3D Portfolio](https://github.com/Sameerkhansabri/My_3D_Portfolio_Project)
   
