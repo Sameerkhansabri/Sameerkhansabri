@@ -3,13 +3,19 @@
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🌱 Currently learning **ReactJS, Java, and AI-ML with Edunet & IBM 
+- 🌱 Currently learning **ReactJS, Java, and AI-ML with Edunet & IBM
+  
 - 💼 Microsoft AI Intern @AICTE @EdunetFoundation
-- 💻 Web Projects: [Personal Portfolio Website] (https://github.com/Sameerkhansabri/My_Portfolio_Website)
-- [3D Portfolio] (https://github.com/Sameerkhansabri/My_3D_Portfolio_Project)  
+  
+- 💻 Web Projects:[Personal Portfolio Website](https://github.com/Sameerkhansabri/My_Portfolio_Website)
+  
+- [3D Portfolio](https://github.com/Sameerkhansabri/My_3D_Portfolio_Project)
+  
 - 🎓 BCA (CS) Student @COER University Roorkee Uttarakhand
+  
 - 🛠️ Skills: `HTML` `CSS` `JavaScript` `React` 'TailwindCSS' `Three.js` `Python` `Java`
-- 📫 Reach me at: **sameerkhansabri.in@gmail.com**
+  
+- 📫 Reach Me At: sameerkhansabri.in@gmail.com
 
 ---
 
@@ -22,7 +28,7 @@
 
 ---
 
-### 🔗 Connect with me
+### 🔗 Connect With Me 👇🏻
 
 <p align="left">
   <a href="https://linkedin.com/in/sameerkhansabri" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
