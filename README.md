@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🌱 Currently learning **ReactJS, Java, and AI-ML with Edunet & IBM
+- 🌱 Currently Learning ReactJS, Java, And AI_ML With Edunet & IBM
   
 - 💼 Microsoft AI Intern @AICTE @EdunetFoundation
   
