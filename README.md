@@ -7,9 +7,7 @@
   
 - 💼 Microsoft AI Intern @AICTE @EdunetFoundation
   
-- 💻 Web Projects:[Personal Portfolio Website](https://github.com/Sameerkhansabri/My_Portfolio_Website)
-  
-- [3D Portfolio](https://github.com/Sameerkhansabri/My_3D_Portfolio_Project)
+- 💻 Web Projects:[Personal Portfolio Website](https://github.com/Sameerkhansabri/My_Portfolio_Website) [3D Portfolio](https://github.com/Sameerkhansabri/My_3D_Portfolio_Project)
   
 - 🎓 BCA (CS) Student @COER University Roorkee Uttarakhand
   
