@@ -28,10 +28,27 @@
 
 ### 🔗 Connect With Me 👇🏻
 
-<p align="left">
-  <a href="https://linkedin.com/in/sameerkhansabri" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" rel="noopener noreferrer"/></a>
-  <a href="https://twitter.com/SameerKhansabri" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" rel="noopener noreferrer" /></a>
-  <a href="https://www.instagram.com/sameer_khan_sabri" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" rel="noopener noreferrer"/>
+<!-- LinkedIn -->
+<a href="https://linkedin.com/in/sameerkhansabri" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-</p>
+
+<!-- Twitter -->
+<a href="https://twitter.com/SameerKhansabri" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
+<!-- Instagram -->
+<a href="https://www.instagram.com/sameer_khan_sabri" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<!-- GitHub -->
+<a href="https://github.com/Sameerkhansabri" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<!-- HackerRank -->
+<a href="https://www.hackerrank.com/profile/sameerkhansabri" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+</a>
