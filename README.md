@@ -29,9 +29,9 @@
 ### 🔗 Connect With Me 👇🏻
 
 <p align="left">
-  <a href="https://linkedin.com/in/sameerkhansabri" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://twitter.com/SameerKhansabri" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/sameerkhansabri" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" rel="noopener noreferrer"/></a>
+  <a href="https://twitter.com/SameerKhansabri" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" rel="noopener noreferrer" /></a>
   <a href="https://www.instagram.com/sameer_khan_sabri" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" rel="noopener noreferrer"/>
 </a>
 </p>
