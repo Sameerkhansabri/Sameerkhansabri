@@ -8,7 +8,7 @@
 - 💻 Web Projects: [3D Portfolio](https://github.com/Sameerkhansabri/My_3D_Portfolio_Project), [Calculator](https://github.com/Sameerkhansabri/Web_Calculator_Project)
 - 🎓 BCA Student @ **COER University, Roorkee (CS Dept.)**
 - 🛠️ Skills: `HTML` `CSS` `JavaScript` `React` `Three.js` `Python` `Java`
-- 📫 Reach me at: **sameer_khan_sabri@outlook.com**
+- 📫 Reach me at: **sameerkhansabri.in@gmail.com**
 
 ---
 
